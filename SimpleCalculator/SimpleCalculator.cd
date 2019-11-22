@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleCalculator.Handlers.OperationHandler">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABEAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\OperationHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCalculator.ConcreteHandlers.AddHandler">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandlers\AddHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCalculator.ConcreteHandlers.DivideHandler">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandlers\DivideHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCalculator.ConcreteHandlers.MultiplyHandler">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandlers\MultiplyHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCalculator.ConcreteHandlers.SubtractHandler">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteHandlers\SubtractHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCalculator.Requests.NumbersContent">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Requests\NumbersContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
